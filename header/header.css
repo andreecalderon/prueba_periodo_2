@@ -1,0 +1,31 @@
+.header {
+    height: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: green;
+    color: white;
+    padding: 10px;
+
+}
+
+.blo_1 {
+    padding: 5px;
+    justify-content: space-between;
+    border: 1px solid black;
+    border-radius: 3px;
+    display: flex;
+}
+
+.blo_2 {
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 3px;
+    display: flex;
+}
+
+.blo_3 {
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 3px;
+}
